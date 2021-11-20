@@ -111,6 +111,6 @@ ORDER BY
 <b>Click aqui para acessar o painel:</b> </a>
 
 <p align="center">
- <img  src="https://raw.githubusercontent.com/mendesrafael965/Painel_vendas/main/Version_1_page-0001.jpg" alt="some text" width=900 height=500>
+ <img  src="https://raw.githubusercontent.com/mendesrafael2/Painel_Vendas/main/Version_1_page-0001.jpg" alt="some text" width=900 height=500>
  <br> <b>Figura 1. Painel de Vendas</b>
 </p>
